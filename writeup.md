@@ -20,11 +20,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/data-vis.png "Data Visualization"
-[image2]: ./test_images/1.jpg "Traffic Sign 1"
-[image3]: ./test_images/11.jpg "Traffic Sign 11"
-[image4]: ./test_images/12.jpg "Traffic Sign 12"
-[image5]: ./test_images/14.jpg "Traffic Sign 14"
-[image6]: ./test_images/40.jpg "Traffic Sign 40"
+[image2]: ./test_images/14.jpg "Traffic Sign 14"
+[image3]: ./test_images/1.jpg "Traffic Sign 1"
+[image4]: ./test_images/40.jpg "Traffic Sign 40"
+[image5]: ./test_images/12.jpg "Traffic Sign 12"
+[image6]: ./test_images/11.jpg "Traffic Sign 11"
 
 
 ## Rubric Points
@@ -35,7 +35,7 @@ The goals / steps of this project are the following:
 
 ####1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You're reading it! and here is a link to my [project code](https://github.com/ibrahim-mo/CarND-Traffic-Sign-Classifier-Project/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/ibrahim-mo/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ###Data Set Summary & Exploration
 
@@ -148,8 +148,8 @@ If a well known architecture was chosen:
 
 Here are five German traffic signs that I downloaded from the web:
 
-![Traffic Sign 1][image2] ![Traffic Sign 11][image3] ![Traffic Sign 12][image4] 
-![Traffic Sign 14][image5] ![Traffic Sign 40][image6] 
+![Traffic Sign 14][image2] ![Traffic Sign 1][image3] ![Traffic Sign 40][image4] 
+![Traffic Sign 12][image5] ![Traffic Sign 11][image6] 
 
 You can see the code for loading and normalizing these images in code cell [16].
 
